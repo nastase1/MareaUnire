@@ -1,0 +1,31 @@
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\bin\Debug\MareaUnire.exe.config
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\bin\Debug\MareaUnire.exe
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\bin\Debug\MareaUnire.pdb
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.csproj.AssemblyReference.cache
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.csproj.SuggestedBindingRedirects.cache
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.Properties.Resources.resources
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.csproj.GenerateResource.cache
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.csproj.CoreCompileInputs.cache
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.exe
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.pdb
+C:\Users\GxG\Desktop\MareaUnire\MareaUnire\obj\Debug\MareaUnire.Main.resources
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\obj\Debug\MareaUnire.csproj.AssemblyReference.cache
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\obj\Debug\MareaUnire.Main.resources
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\obj\Debug\MareaUnire.Properties.Resources.resources
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\obj\Debug\MareaUnire.csproj.GenerateResource.cache
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\obj\Debug\MareaUnire.csproj.CoreCompileInputs.cache
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\obj\Debug\MareaUnire.exe
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\obj\Debug\MareaUnire.pdb
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\bin\Debug\MareaUnire.exe.config
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\bin\Debug\MareaUnire.exe
+C:\Users\nasta\OneDrive\Desktop\Csharp\MareaUnire\bin\Debug\MareaUnire.pdb
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\bin\Debug\MareaUnire.exe.config
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\bin\Debug\MareaUnire.exe
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\bin\Debug\MareaUnire.pdb
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\obj\Debug\MareaUnire.csproj.AssemblyReference.cache
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\obj\Debug\MareaUnire.Main.resources
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\obj\Debug\MareaUnire.Properties.Resources.resources
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\obj\Debug\MareaUnire.csproj.GenerateResource.cache
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\obj\Debug\MareaUnire.csproj.CoreCompileInputs.cache
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\obj\Debug\MareaUnire.exe
+C:\Users\nasta\OneDrive\Desktop\Personal Projects\MareaUnire\MareaUnire\obj\Debug\MareaUnire.pdb

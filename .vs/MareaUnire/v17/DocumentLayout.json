@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\service\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\service\\quizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\utils\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\utils\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\model\\intrebare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\model\\intrebare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|c:\\users\\nasta\\onedrive\\desktop\\personal projects\\mareaunire\\mareaunire\\repository\\intrebarirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE4120F8-D414-4D46-9328-B1DD5A3FCB33}|MareaUnire\\MareaUnire.csproj|solutionrelative:mareaunire\\repository\\intrebarirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Main.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Main.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Main.cs [Design]",
+              "RelativeToolTip": "MareaUnire\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:26:18.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Program.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Program.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Program.cs",
+              "RelativeToolTip": "MareaUnire\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:26:13.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.resx",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Main.resx",
+              "RelativeDocumentMoniker": "MareaUnire\\Main.resx",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Main.resx",
+              "RelativeToolTip": "MareaUnire\\Main.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-18T08:25:59.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizService.cs",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Service\\QuizService.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Service\\QuizService.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Service\\QuizService.cs",
+              "RelativeToolTip": "MareaUnire\\Service\\QuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:25:47.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Utils\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Utils\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Utils\\DatabaseConfig.cs",
+              "RelativeToolTip": "MareaUnire\\Utils\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:24:48.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Intrebare.cs",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Model\\Intrebare.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Model\\Intrebare.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Model\\Intrebare.cs",
+              "RelativeToolTip": "MareaUnire\\Model\\Intrebare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:24:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Repository\\IRepository.cs",
+              "RelativeToolTip": "MareaUnire\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:24:33.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IntrebariRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Repository\\IntrebariRepository.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Repository\\IntrebariRepository.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Repository\\IntrebariRepository.cs",
+              "RelativeToolTip": "MareaUnire\\Repository\\IntrebariRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:24:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "MareaUnire\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\nasta\\OneDrive\\Desktop\\Personal Projects\\MareaUnire\\MareaUnire\\Main.Designer.cs",
+              "RelativeToolTip": "MareaUnire\\Main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:24:05.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
