@@ -15,7 +15,4 @@ Acesta este un joculeț de tip quiz dedicat evenimentului istoric "Marea Unire".
 - Calcularea automată a scorului final.
 - Interfață simplă, intuitivă și prietenoasă.
 
-## Instalare și Rulare
-1. Clonează repository-ul:
-   ```bash
-   git clone https://github.com/nastase1/MareaUnire
+
